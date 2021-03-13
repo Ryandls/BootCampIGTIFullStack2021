@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css">
+  <title>Trabalho Prático: Números por extenso</title>
+</head>
+<body>
+  <div align="center" >
+      <div class="container">
+        <div class="range-slider">
+          <form>Escolha um número de 0 a 999:</form>
+          <span id="rs-bullet" class="num">0</span>
+          <input id="slider" class="rs-range" type="range" value="0" min="0" max="999">
+        </div>
+        
+        <div class="box-minmax">
+          <span>0</span><span>999</span>
+        </div>
+        
+      </div>
+     <form> Número por extenso: </form>
+      <p>
+        <input type="text" class="extenso" disabled>
+     </p>
+
+  </div>
+<script src="./js/script.js" defer></script>
+</body>
+</html>
