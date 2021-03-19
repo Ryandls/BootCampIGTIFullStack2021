@@ -1,5 +1,5 @@
 <img alt="Gif-App" class="img" title="Na gravação do Gif, a imagem veio bugada por conta do aplicativo de gravação." src="./img/T-Video.gif"/>
-<style>.margin{margin-top:15px;}</style>
+
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -34,7 +34,7 @@ Esse projeto foi realizado com o objetivo de colocar em prática o que aprendi n
 Basta você clonar o repositório e abrir o index.html em algum browser que o projeto já poderá ser testado.
 </div>
 
-<div align="center" class="margin">
+<div align="center" >
 <p> A qualidade real de imagem do Projeto:</p>
 <img alt="IMG-App" width="320px" height="200"title="A imagem era pra ficar dessa forma." src="./img/T-IMG.png"/>
 
