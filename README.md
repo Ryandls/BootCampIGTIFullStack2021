@@ -31,7 +31,9 @@ Esse projeto foi realizado com o objetivo de colocar em prática o que aprendi n
 ## 💻 How to test?
 
 <div id="how-to-test">
+ <p>
 Basta você clonar o repositório e abrir o index.html em algum browser que o projeto já poderá ser testado.
+ </p>
 </div>
 
 <div align="center" >
@@ -39,5 +41,5 @@ Basta você clonar o repositório e abrir o index.html em algum browser que o pr
 <img alt="IMG-App" width="320px" height="200"title="A imagem era pra ficar dessa forma." src="./img/T-IMG.png"/>
 
 <h3><strong>Feito por Bryan.</strong><h3>
-<img alt="AppVideo" title="V" src="./img/giphy.gif" width="100px" height="50"/>
+<img src="./img/giphy.gif" width="100px" height="50"/>
 </div>
